@@ -1,0 +1,31 @@
+# Core Framework
+Django==5.0.9
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+djangorestframework-simplejwt==5.5.1
+
+# Database
+psycopg2-binary==2.9.12
+
+# Data Processing
+pandas==3.0.3
+numpy==2.4.4
+
+# Visualization
+plotly==6.7.0
+
+# Web Server
+gunicorn==26.0.0
+uvicorn==0.46.0
+
+# Environment Management
+python-dotenv==1.2.2
+
+# Utilities
+requests==2.33.1
+python-dateutil==2.9.0.post0
+
+# Development and Testing
+pytest==7.4.3
+pytest-django==4.7.0
+
